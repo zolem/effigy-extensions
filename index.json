@@ -1,3 +1,8 @@
-{
-  "effigy-fliphorizontal":"latest"
-}
+[
+  { 
+    "name":"effigy-fliphorizontal",
+    "version":"latest",
+    "author":"Rudy Garcia",
+    "description":"An effigy plugin to flip an image on the y axis",
+  }
+]
