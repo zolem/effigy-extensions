@@ -12,10 +12,9 @@
     "description":"An effigy plugin to flip an image on the x axis"
   },
   {
-    "name":"effigy-sobel",
+    "name":"effigy-sepia",
     "version": "latest",
     "author": "Kathleen Nocchi",
-    "description":"An effigy plugin to apply the sobel filter to an image"
+    "description":"An effigy plugin to apply the sepia filter to an image"
   }
-
 ]
