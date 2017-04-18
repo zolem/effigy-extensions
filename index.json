@@ -10,5 +10,12 @@
     "version": "latest",
     "author": "Rudy Garcia",
     "description":"An effigy plugin to flip an image on the x axis"
+  },
+  {
+    "name":"effigy-sobel",
+    "version": "latest",
+    "author": "Kathleen Nocchi",
+    "description":"An effigy plugin to apply the sobel filter to an image"
   }
+
 ]
