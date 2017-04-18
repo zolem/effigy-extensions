@@ -4,5 +4,11 @@
     "version":"latest",
     "author":"Rudy Garcia",
     "description":"An effigy plugin to flip an image on the y axis"
+  },
+  {
+    "name":"effigy-flipvertical",
+    "version": "latest",
+    "author": "Rudy Garcia",
+    "description":"An effigy plugin to flip an image on the x axis"
   }
 ]
